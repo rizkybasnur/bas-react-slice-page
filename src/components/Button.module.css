@@ -1,0 +1,29 @@
+.button {
+  /* Green */
+  border: none;
+  color: white;
+  padding: 11px 36.5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.b-green {
+  background-color: #2c7d92;
+}
+
+.b-none {
+  background-color: transparent;
+  border: 1px solid #2c7d92;
+}
+
+.p-none {
+  padding: 0;
+  /* border: none; */
+}
+
+.dark-green {
+  color: #2c7d92;
+}

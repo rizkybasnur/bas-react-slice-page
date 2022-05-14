@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/bas-react-slice-page/static/css/main.f2e0063e.css",
+    "main.js": "/bas-react-slice-page/static/js/main.c6a8a8fe.js",
+    "static/js/787.0a4410ac.chunk.js": "/bas-react-slice-page/static/js/787.0a4410ac.chunk.js",
+    "static/media/hero-image.svg": "/bas-react-slice-page/static/media/hero-image.9725a45497b7f3d2621d54cc40b67f21.svg",
+    "static/media/garden.svg": "/bas-react-slice-page/static/media/garden.d2e4a5c36c5c7802f4a90dc2c0067438.svg",
+    "static/media/Person1.svg": "/bas-react-slice-page/static/media/Person1.af77d9f148faf1bb09237abd9f18b617.svg",
+    "static/media/Person2.svg": "/bas-react-slice-page/static/media/Person2.ee675b25a63459dc4e14fc3cf5c984cd.svg",
+    "static/media/Person3.svg": "/bas-react-slice-page/static/media/Person3.0f6699afc908857c8843340c866c6a16.svg",
+    "static/media/botanicalLogo.svg": "/bas-react-slice-page/static/media/botanicalLogo.2fe29d5d56c2f0ff39f6fd994570d753.svg",
+    "static/media/logo-questeon.svg": "/bas-react-slice-page/static/media/logo-questeon.25cdb07598ddc5b298d10fbdc81c9687.svg",
+    "static/media/3 User.svg": "/bas-react-slice-page/static/media/3 User.2e957d15642c3f3ab23f25c9d0fe9534.svg",
+    "static/media/Logout.svg": "/bas-react-slice-page/static/media/Logout.f7ce4ac07d780c4eeb55a64e2a7b1bd7.svg",
+    "static/media/Login.svg": "/bas-react-slice-page/static/media/Login.e35de06111682ff621d6192f7e882676.svg",
+    "static/media/CurrencyCircleDollar.svg": "/bas-react-slice-page/static/media/CurrencyCircleDollar.54f83322f32797f2f0c44d539bc7bf4f.svg",
+    "static/media/go-kart-track.svg": "/bas-react-slice-page/static/media/go-kart-track.832f316f8105dae93fe9b513af2a0a7a.svg",
+    "static/media/Setting.svg": "/bas-react-slice-page/static/media/Setting.1f7fa2e79107ad6b7d0f3915d6f8b680.svg",
+    "static/media/Wallet.svg": "/bas-react-slice-page/static/media/Wallet.45d0b77b0fe42c12a6180ed818923860.svg",
+    "static/media/Delete.svg": "/bas-react-slice-page/static/media/Delete.5a6e81c7af49f57711550b18f1c9f573.svg",
+    "static/media/Star.svg": "/bas-react-slice-page/static/media/Star.8eeaef3f2c5c238d17a63804bcd0d575.svg",
+    "static/media/Edit.svg": "/bas-react-slice-page/static/media/Edit.ebf96382641213f80d595ddf9c87db3a.svg",
+    "static/media/MapPin.svg": "/bas-react-slice-page/static/media/MapPin.241291fe2f356c56424acf4f21987b6a.svg",
+    "static/media/clipboard-check-outline.svg": "/bas-react-slice-page/static/media/clipboard-check-outline.aaca5ff5dcabffa11b5ccbd65a2bb949.svg",
+    "static/media/avatar.svg": "/bas-react-slice-page/static/media/avatar.a032683adf3fc9d4ed0890a079623e67.svg",
+    "index.html": "/bas-react-slice-page/index.html",
+    "static/media/TimeCircle.svg": "/bas-react-slice-page/static/media/TimeCircle.624d4d9a86689383e02c06a2e7260f11.svg",
+    "static/media/Discovery.svg": "/bas-react-slice-page/static/media/Discovery.87f63e7d62430fc51b535ab2bf4f9b31.svg",
+    "static/media/map-marker-check-outline.svg": "/bas-react-slice-page/static/media/map-marker-check-outline.6b51f343bf5c950a1556b95fa13d2f2a.svg",
+    "static/media/CaretRight.svg": "/bas-react-slice-page/static/media/CaretRight.8c0243fb9cc91d2008a10b915403a135.svg",
+    "main.f2e0063e.css.map": "/bas-react-slice-page/static/css/main.f2e0063e.css.map",
+    "main.c6a8a8fe.js.map": "/bas-react-slice-page/static/js/main.c6a8a8fe.js.map",
+    "787.0a4410ac.chunk.js.map": "/bas-react-slice-page/static/js/787.0a4410ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e0063e.css",
+    "static/js/main.c6a8a8fe.js"
+  ]
+}

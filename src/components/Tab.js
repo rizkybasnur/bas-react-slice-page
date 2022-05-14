@@ -10,6 +10,7 @@ function Tab({
   review,
   setReview,
 }) {
+  console.log("tes");
   const selectQuest = () => {
     setQuest(true);
     setPlace(false);
